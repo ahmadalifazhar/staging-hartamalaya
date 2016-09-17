@@ -1,0 +1,9 @@
+{
+    "type": "sftp",
+    "host": "staging.hartamalaya.com",
+    "username": "serverpilot",
+    "password": "cSEn8C30DINaCER",
+    "port": 22,
+    "remotePath": "/srv/users/serverpilot/apps/staging/public",
+    "uploadOnSave": true
+}
