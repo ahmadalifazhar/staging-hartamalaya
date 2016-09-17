@@ -175,14 +175,14 @@ a img{
   height: 800px;
   width: auto;
   background-color: #f3f3f3;
-  background: url('images/slide01.jpg') center 30% no-repeat;
+  background: url('images/highlights.jpg') center 30% no-repeat;
   background-size: cover;
 }
 
 .logo-font {
   font-family: 'Roboto', 'Helvetica', 'Arial', sans-serif;
   line-height: 1;
-  color: #767777;
+  color: #FFFFFF;
   font-weight: 500;
 }
 
@@ -203,7 +203,7 @@ a img{
 
   .android-create-character a {
     text-decoration: none;
-    color: #767777;
+    color: #FFFFFF;
     font-weight: 300;
   }
 
